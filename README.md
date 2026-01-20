@@ -353,14 +353,6 @@ npm run build
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the ISC License.
-
-## 👥 Authors
-
-- Your Name - Initial work
-
 ## 🙏 Acknowledgments
 
 - Chart.js for beautiful visualizations
